@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "relacion_pensamiento_lenguaje",
     "title": "2. Relación entre pensamiento y lenguaje",    
     "path": "pages/tema-2.html",
@@ -52,7 +52,7 @@
         "anchor": "tema2_2"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "relacion_pensamiento_lenguaje",
         "title": "2.3 Comprender y argumentar",
         "anchor": "tema2_3"
